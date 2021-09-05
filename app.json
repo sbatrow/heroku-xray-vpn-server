@@ -1,7 +1,7 @@
 {
     "name": "𝕏𝕣𝕒𝕪-𝕍𝟚𝕣𝕒𝕪-𝕍𝕝𝕖𝕤𝕤-ℍ𝕖𝕣𝕠𝕜𝕦",
     "description": "🄳🄴🄿🄻🄾🅈 🅇🅁🄰🅈 🅂🄴🅁🅅🄴🅁 🅃🄾 🄷🄴🅁🄾🄺🅄",
-    "logo":"https://telegra.ph/file/29a269dbbfa0dac35786d.jpg",
+    "logo":"https://telegra.ph/file/53154126497c9efee453b.jpg",
     "keywords": ["xray"],
     "env": {
         "UUID": {
@@ -9,6 +9,6 @@
             "required": true        
         }
     },
-    "repository": "https://github.com/heshan2/heroku-xray-server",
+    "repository": "https://github.com/sbatrow/heroku-xray-vpn-server",
     "stack": "container"
 }
