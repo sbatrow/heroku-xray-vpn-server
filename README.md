@@ -49,6 +49,10 @@ ______
 - ᴘᴀᴛʜ: ᴋᴇᴇᴘ ᴛʜɪꜱ ᴇᴍᴘᴛʏ ᴏʀ /
 
 - ɴᴇᴛᴡᴏʀᴋ: ᴡꜱ
+
+# software downlode 
+
+[v2rayN-proxyfire](https://drive.google.com/file/d/1RDbpKUIqYdE2aMjdm5QkRDhIetx2GiyV/view?usp=sharing)
 _________
 ### CREDIT
 Thanks To:
