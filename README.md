@@ -16,7 +16,7 @@ ____
 
 - 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
 
-<p><a href="https://github.com/sbatrow/heroku-xray-vpn-server"> <img src="https://telegra.ph/file/96c2318cee74da32eb15a.jpg" /></a></p>
+<p><a href="https://github.com/sbatrow/heroku-xray-vpn-server"> <img src="https://telegra.ph/file/732d61f3da9076a924fb9.jpg" /></a></p>
 Click on fork and star buttons like this image☝️.
 
 ___
